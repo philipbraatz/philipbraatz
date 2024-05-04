@@ -1,69 +1,79 @@
 <table>
   <tbody>
     <tr>
-      <td>
-       <h1 align="center">Hi 👋 I'm Philip</h1>
+      <td width="50%">
+        <!-- Title -->
+        <h1 align="center">Hi 👋 I'm Philip</h1>
         <h3 align="center">A passionate full stack developer</h3>
+        <!-- Description -->
         <p> 
 Experienced and seasoned software developer with three years of hands-on experience in full-stack development. Known for delivering robust, scalable solutions that meet and exceed client expectations. Proficient in a wide range of technologies, with expertise in C#, ASP.NET, and Blazor. Strong problem-solving skills coupled with a deep understanding of software architecture and design principles. Committed to staying up-to-date with industry trends and continuously enhancing skills to deliver cutting-edge solutions.
-</p>
-      </td>
-      <td width="20%" rowspan="1">
-        <img alt="Philip Braatz" src="./Assets/snowy_pfp.jpg" />
-
-<div style="display: flex; justify-content: space-around;">
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-       <img src="https://img.shields.io/badge/-Expert-brightgreen" width="25" height="20" alt="Expert">
-    </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-      <img src="https://img.shields.io/badge/-Expert-brightgreen" alt="Expert">
-    </a> 
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-      <img src="https://img.shields.io/badge/-Novice-lightgrey" alt="Novice">
-    </a> 
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
-      <img src="https://img.shields.io/badge/-Proficient-blue" alt="Proficient">
-    </a> 
-    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/dotnet/brand/main/logo/v2/dotnet.svg" alt=".NET" width="40" height="40"/>
-      <img src="https://img.shields.io/badge/-Proficient-blue" alt="Proficient">
-    </a>
-    <a href="https://jquery.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="40" height="40"/>
-      <img src="https://img.shields.io/badge/-Proficient-blue" alt="Novice">
-    </a>
-    <a href="https://unity.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-      <img src="https://img.shields.io/badge/-Novice-lightgrey" alt="Novice">
-    </a> 
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-      <img src="https://img.shields.io/badge/-Proficient-blue" alt="Proficient">
-    </a>
-</div>
-
-<details>
-    <summary>⚡ Fun facts</summary>
-    <ul>
-    <li>⛰️ I love mountain climbing.
-    <li>⌨️ I have a very cool custom keyboard setup.
-    <li>🎮 Games I enjoy: Minecraft, BTD, Words with friends
-    </ul>
-</details>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
+        </p>
         <ul>
           <li><a href="#skills">Skills & Qualifications</a></li>
           <li><a href="#education">Education</a></li>
           <li><a href="#work-experience">Work Experience</a></li>
           <li><a href="#projects">Projects</a></li>
         </ul>
+      </td>
+      <td width="50%" rowspan="2" valign="top">
+        <!-- Profile picture -->
+        <img alt="Philip Braatz" src="./Assets/snowy_pfp.jpg" />
+        <!-- Icons -->
+        <div style="display: flex; justify-content: space-around; margin-top: 20px;">
+          <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+             <img src="https://img.shields.io/badge/-Expert-brightgreen" width="25" height="20" alt="Expert">
+          </a> 
+          <a href="https://www.python.org" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+            <img src="https://img.shields.io/badge/-Expert-brightgreen" alt="Expert">
+          </a> 
+          <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+            <img src="https://img.shields.io/badge/-Novice-lightgrey" alt="Novice">
+          </a> 
+          <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
+            <img src="https://img.shields.io/badge/-Proficient-blue" alt="Proficient">
+          </a> 
+          <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/dotnet/brand/main/logo/v2/dotnet.svg" alt=".NET" width="40" height="40"/>
+            <img src="https://img.shields.io/badge/-Proficient-blue" alt="Proficient">
+          </a>
+          <a href="https://jquery.com/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="40" height="40"/>
+            <img src="https://img.shields.io/badge/-Proficient-blue" alt="Novice">
+          </a>
+          <a href="https://unity.com/" target="_blank" rel="noreferrer">
+            <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
+            <img src="https://img.shields.io/badge/-Novice-lightgrey" alt="Novice">
+          </a> 
+          <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+            <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+            <img src="https://img.shields.io/badge/-Proficient-blue" alt="Proficient">
+          </a>
+          <!-- Add other icons here -->
+        </div>
+         <!-- Fun Facts -->
+        <details>
+          <summary>⚡ Fun facts</summary>
+          <ul>
+            <li>⛰️ I love mountain climbing.</li>
+            <li>⌨️ I have a very cool custom keyboard setup.</li>
+            <li>🎮 Games I enjoy: Minecraft, BTD, Words with friends</li>
+          </ul>
+        </details>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <!-- Add any additional content here -->
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
   #### 🔭 When I last updated this, I'm finishing up a **Discord Form tool.**
 
