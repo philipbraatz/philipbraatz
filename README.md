@@ -107,7 +107,11 @@ Experienced and seasoned software developer with three years of hands-on experie
   - Completed Agile training in a small team environment.
   - Developed websites using ASP.NET for frontend and SQL databases for data storage.
   - Proficient in C# 7.1 for database entry updates and RESTful API for UI-backend communication.
-
+    - **CharityConnections** (2020 Fall)
+      - ASP.NET website connecting charities with volunteers. Separate account types of charities & volunteers. Volunteers would be able to follow charities, show interest in charity events, like charity events. Charities could ask for volunteers matching specific criteria to do a simple job for events. The goal of the project was be introduced adgile sprints with a team to produce a website that used many-to-many relationships.
+        - Utilized EntityFramework and Azure DB.
+        - My first team (of 3) project.
+        - Adgile 
 
 ## Work Experience
 - **The Retirement Advantage**
@@ -120,48 +124,50 @@ Experienced and seasoned software developer with three years of hands-on experie
  Enhanced core systems with robust logging and reporting functionalities, improving system monitoring and troubleshooting capabilities.
 
 ## Projects
-> TODO reference when  the project started
 ### Professional Projects
-- **CharityConnections** - 2020 Fall
-  - ASP.NET website connecting charities with volunteers. Separate account types of charities & volunteers. Volunteers would be able to follow charities, show interest in charity events, like charity events. Charities could ask for volunteers matching specific criteria to do a simple job for events. The goal of the project was be introduced adgile sprints with a team to produce a website that used many-to-many relationships.
-    - Utilized EntityFramework and Azure DB.
-    - My first team (of 3) project.
-    - Adgile 
-
-- **SupplyDrop** - 2021 Winter
+- **SupplyDrop** (2021 Winter)
   - Java project for a Minecraft server.
   - Dropped loot randomly on the surface for players to collect.
 
-- **Collection Letters** - 2022 Winter
+- **Collection Letters** (2022 Winter)
   - ASP.NET project for sending bulk emails for late invoices.
   - Implemented HTML editor and advanced filtering functionality.
 
-- **DBAA Emailer** - 2023 Spring
+- **DBAA Emailer** (2023 Spring)<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="20"/>
   - C# project for automated reaccurring email notifications.
   - Managed project states and handled task updates.
 
-- **General use task completer** - 2024 Summer
+- **General Use Task Completer** (2024 Spring)<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="20"/>
+- **Libraries:** NLog, XUnit, TraDataServices.Common
+- **Description:** Solution for completing tasks with various requirements. Standardized process for efficiency.
+- **Reason for Stopping:** Ongoing development and maintenance.
+
+- **Receipt Bot Emailer** (2024 Spring)<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="20"/>
+  - Developed a Discord bot for generating email receipts using DisCatSharp paged modals.
+  - Implemented multi-language support and custom Discord logging.
+  - Managed user roles, integrated containerization, and navigated client expectations.
+
 
 ### School Projects
-- **Chess Game** 2015 - [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualbasic/visualbasic-plain.svg" alt="Visual Basic" width="20"/>](https://visualstudio.microsoft.com/vs/features/visual-basic/)
+- **Chess Game** (2015) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualbasic/visualbasic-plain.svg" alt="Visual Basic" width="20"/>
 
   - Developed in Visual Basic during high school.
   - Basic chess implementation with move validation.
-- **Boss Game** - 2013 - [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" alt="Android" width="20"/> Android](https://developer.android.com/)
+- **Boss Game** (2013) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" alt="Android" width="20"/>
   - Created using Code Blocks in middle school.
   - Android app where players control a ball to defeat a boss.
-- **Snake Game** - 2014
+- **Snake Game** (2014) <Construct 2>
   - Construct 2 project from middle school.
   - Classic snake game with advanced mechanics.
   
 ### Personal Projects
-- **External Game Viewer** - 2017
+- **External Game Viewer** (2017)
   - Utilized OpenCV and C++ to extract game info in real-time.
   - Integrated keyboard input for user interaction.
-- **AI Screen Reading** - 2017
+- **AI Screen Reading** (2017)
   - AI project in C++ and C#, focusing on neural networks.
   - Explored advanced concepts like virtual classes and template classes.
-- **ScrambleCraft** - 2020
+- **ScrambleCraft** (2020)
   - Java project for Minecraft with dynamic item recipes.
   - Achieved 30,000+ downloads and generated revenue.
 
