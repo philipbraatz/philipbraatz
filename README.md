@@ -143,30 +143,29 @@ Experienced and seasoned software developer with three years of hands-on experie
   - ASP.NET project for sending bulk emails for late invoices.
   - Implemented HTML editor and advanced filtering functionality.
 
-- **DBAA Emailer** (2023 Spring)<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="20"/>
+- **DBAA Emailer**<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="20"/> (2023 Spring)
   - C# project for automated reaccurring email notifications.
   - Managed project states and handled task updates.
 
-- **General Use Task Completer** (2024 Spring)<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="20"/>
+- **General Use Task Completer**<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="20"/> (2024 Spring)
 - **Libraries:** NLog, XUnit, TraDataServices.Common
 - **Description:** Solution for completing tasks with various requirements. Standardized process for efficiency.
 - **Reason for Stopping:** Ongoing development and maintenance.
 
-- **Receipt Bot Emailer** (2024 Spring)<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="20"/>
+- **Receipt Bot Emailer**<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="20"/> (2024 Spring)
   - Developed a Discord bot for generating email receipts using DisCatSharp paged modals.
   - Implemented multi-language support and custom Discord logging.
   - Managed user roles, integrated containerization, and navigated client expectations.
 
 
 ### School Projects
-- **Chess Game** (2015) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualbasic/visualbasic-plain.svg" alt="Visual Basic" width="20"/>
-
+- **Chess Game**<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualbasic/visualbasic-plain.svg" alt="Visual Basic" width="20"/> (2015)
   - Developed in Visual Basic during high school.
   - Basic chess implementation with move validation.
-- **Boss Game** (2013) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" alt="Android" width="20"/>
+- **Boss Game**<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" alt="Android" width="20"/> (2013)
   - Created using Code Blocks in middle school.
   - Android app where players control a ball to defeat a boss.
-- **Snake Game** (2014) <Construct 2>
+- **Snake Game**<Construct 2> (2014)
   - Construct 2 project from middle school.
   - Classic snake game with advanced mechanics.
   
