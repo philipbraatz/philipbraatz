@@ -110,8 +110,8 @@ Experienced and seasoned software developer with three years of hands-on experie
     </tr>
   </tbody>
 </table>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=philipbraatz&label=Profile%20views&color=0e75b6&style=flat" alt="philipbraatz" /></p>
 
-## Github stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=philipbraatz&show_icons=true&locale=en&layout=compact" alt="philipbraatz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=philipbraatz&show_icons=true&locale=en" alt="philipbraatz" /></p>
@@ -214,3 +214,8 @@ Experienced and seasoned software developer with three years of hands-on experie
 - **OpenMiNet**
   - Contributed to a pure C# Minecraft implementation.
   - Added GUI elements and improved usability.
+
+<footer>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/doorfail"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="doorfail" /></a></p><br><br>
+</footer>
