@@ -6,7 +6,7 @@
         <h1 align="center">Hi 👋 I'm Philip</h1>
         <h3 align="center">A passionate full stack developer</h3>
         <!-- Description -->
-        <p> 
+        <p>
 Experienced and seasoned software developer with three years of hands-on experience in full-stack development. Known for delivering robust, scalable solutions that meet and exceed client expectations. Proficient in a wide range of technologies, with expertise in C#, ASP.NET, and Blazor. Strong problem-solving skills coupled with a deep understanding of software architecture and design principles. Committed to staying up-to-date with industry trends and continuously enhancing skills to deliver cutting-edge solutions.
         </p>
         <ul>
@@ -92,13 +92,14 @@ Experienced and seasoned software developer with three years of hands-on experie
     </tr>
   </tbody>
 </table>
-         <!-- Fun Facts -->
+                <!-- Fun Facts -->
         <details>
           <summary>⚡ Fun facts</summary>
           <ul>
             <li>⛰️ I love mountain climbing.</li>
             <li>⌨️ I have a very cool custom keyboard setup.</li>
-            <li>🎮 Games I enjoy: Minecraft, BTD, Words with friends</li>
+            <li>🎮 Games I enjoy: Minecraft,🎈BTD, Words with friends</li>
+            <li>🎵 Music: classic rock, electro-swing, Funk</li>
           </ul>
         </details>
       </td>
@@ -119,8 +120,6 @@ Experienced and seasoned software developer with three years of hands-on experie
     </tr>
   </tbody>
 </table>
-
-
 
 ## Skills
 
@@ -143,7 +142,8 @@ Experienced and seasoned software developer with three years of hands-on experie
 - **Keeping up to date with technology:** Stay informed about the latest advancements and updates in C# and related technologies.
 
 ## Education
-- **Fox Valley Technical College** (April 2020)
+### Associates in applied science
+**Fox Valley Technical College** (April 2020)
   - Completed Agile training in a small team environment.
   - Developed websites using ASP.NET for frontend and SQL databases for data storage.
   - Proficient in C# 7.1 for database entry updates and RESTful API for UI-backend communication.
@@ -151,20 +151,23 @@ Experienced and seasoned software developer with three years of hands-on experie
       - ASP.NET website connecting charities with volunteers. Separate account types of charities & volunteers. Volunteers would be able to follow charities, show interest in charity events, like charity events. Charities could ask for volunteers matching specific criteria to do a simple job for events. The goal of the project was be introduced adgile sprints with a team to produce a website that used many-to-many relationships.
         - Utilized EntityFramework and Azure DB.
         - My first team (of 3) project.
-        - Adgile 
+        - Adgile
 
 ## Work Experience
+
 - **The Retirement Advantage**
   
   *Software Developer* (June 2021 - Present)
-    - <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="20" height="20"/> </a> Spearheaded the development of automated processes and systems to streamline business operations.
-    - <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> </a>  Designed and implemented solutions for bulk email generation, SSRS report automation, and task-triggered file generation and upload.
-    - <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> </a>  Ensured seamless synchronization of local databases with third-party APIs to maintain data integrity and accuracy.
-    - <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> </a> [<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_log.svg" alt="NLog" width="20"/>](https://nlog-project.org/) 
+  - <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="20" height="20"/> </a> Spearheaded the development of automated processes and systems to streamline business operations.
+  - <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> </a>  Designed and implemented solutions for bulk email generation, SSRS report automation, and task-triggered file generation and upload.
+  - <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> </a>  Ensured seamless synchronization of local databases with third-party APIs to maintain data integrity and accuracy.
+  - <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> </a> [<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_log.svg" alt="NLog" width="20"/>](https://nlog-project.org/)
  Enhanced core systems with robust logging and reporting functionalities, improving system monitoring and troubleshooting capabilities.
 
 ## Projects
+
 ### Professional Projects
+
 - **SupplyDrop** (2021 Winter)
   - Java project for a Minecraft server.
   - Dropped loot randomly on the surface for players to collect.
@@ -187,8 +190,8 @@ Experienced and seasoned software developer with three years of hands-on experie
   - Implemented multi-language support and custom Discord logging.
   - Managed user roles, integrated containerization, and navigated client expectations.
 
-
 ### School Projects
+
 - **Chess Game**<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualbasic/visualbasic-plain.svg" alt="Visual Basic" width="20"/> (2015)
   - Developed in Visual Basic during high school.
   - Basic chess implementation with move validation.
@@ -200,6 +203,7 @@ Experienced and seasoned software developer with three years of hands-on experie
   - Classic snake game with advanced mechanics.
   
 ### Personal Projects
+
 - **External Game Viewer** (2017)
   - Utilized OpenCV and C++ to extract game info in real-time.
   - Integrated keyboard input for user interaction.
@@ -211,6 +215,7 @@ Experienced and seasoned software developer with three years of hands-on experie
   - Achieved 30,000+ downloads and generated revenue.
 
 ## Contributions
+
 - **OpenMiNet**
   - Contributed to a pure C# Minecraft implementation.
   - Added GUI elements and improved usability.

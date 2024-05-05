@@ -92,13 +92,14 @@ Experienced and seasoned software developer with three years of hands-on experie
     </tr>
   </tbody>
 </table>
-         <!-- Fun Facts -->
+        <!-- Fun Facts -->
         <details>
           <summary>⚡ Fun facts</summary>
           <ul>
             <li>⛰️ I love mountain climbing.</li>
             <li>⌨️ I have a very cool custom keyboard setup.</li>
-            <li>🎮 Games I enjoy: Minecraft, BTD, Words with friends</li>
+            <li>🎮 Games I enjoy: Minecraft,🎈BTD, Words with friends</li>
+            <li>🎵 Music: classic rock, electro-swing, Funk</li>
           </ul>
         </details>
       </td>
@@ -142,8 +143,10 @@ Experienced and seasoned software developer with three years of hands-on experie
 
 - **Keeping up to date with technology:** Stay informed about the latest advancements and updates in C# and related technologies.
 
+
 ## Education
-- **Fox Valley Technical College** (April 2020)
+### Associates in applied science
+**Fox Valley Technical College** (April 2020)
   - Completed Agile training in a small team environment.
   - Developed websites using ASP.NET for frontend and SQL databases for data storage.
   - Proficient in C# 7.1 for database entry updates and RESTful API for UI-backend communication.
@@ -151,7 +154,7 @@ Experienced and seasoned software developer with three years of hands-on experie
       - ASP.NET website connecting charities with volunteers. Separate account types of charities & volunteers. Volunteers would be able to follow charities, show interest in charity events, like charity events. Charities could ask for volunteers matching specific criteria to do a simple job for events. The goal of the project was be introduced adgile sprints with a team to produce a website that used many-to-many relationships.
         - Utilized EntityFramework and Azure DB.
         - My first team (of 3) project.
-        - Adgile 
+        - Adgile
 
 ## Work Experience
 - **The Retirement Advantage**
