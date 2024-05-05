@@ -93,6 +93,7 @@ Experienced and seasoned software developer with three years of hands-on experie
   </tbody>
 </table>
                 <!-- Fun Facts -->
+                <!-- Fun Facts -->
         <details>
           <summary>⚡ Fun facts</summary>
           <ul>
@@ -144,6 +145,8 @@ Experienced and seasoned software developer with three years of hands-on experie
 ## Education
 ### Associates in applied science
 **Fox Valley Technical College** (April 2020)
+### Associates in applied science
+**Fox Valley Technical College** (April 2020)
   - Completed Agile training in a small team environment.
   - Developed websites using ASP.NET for frontend and SQL databases for data storage.
   - Proficient in C# 7.1 for database entry updates and RESTful API for UI-backend communication.
@@ -152,8 +155,10 @@ Experienced and seasoned software developer with three years of hands-on experie
         - Utilized EntityFramework and Azure DB.
         - My first team (of 3) project.
         - Adgile
+        - Adgile
 
 ## Work Experience
+
 
 - **The Retirement Advantage**
   
@@ -162,11 +167,17 @@ Experienced and seasoned software developer with three years of hands-on experie
   - <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> </a>  Designed and implemented solutions for bulk email generation, SSRS report automation, and task-triggered file generation and upload.
   - <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> </a>  Ensured seamless synchronization of local databases with third-party APIs to maintain data integrity and accuracy.
   - <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> </a> [<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_log.svg" alt="NLog" width="20"/>](https://nlog-project.org/)
+  - <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="20" height="20"/> </a> Spearheaded the development of automated processes and systems to streamline business operations.
+  - <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> </a>  Designed and implemented solutions for bulk email generation, SSRS report automation, and task-triggered file generation and upload.
+  - <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> </a>  Ensured seamless synchronization of local databases with third-party APIs to maintain data integrity and accuracy.
+  - <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> </a> [<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_log.svg" alt="NLog" width="20"/>](https://nlog-project.org/)
  Enhanced core systems with robust logging and reporting functionalities, improving system monitoring and troubleshooting capabilities.
 
 ## Projects
 
+
 ### Professional Projects
+
 
 - **SupplyDrop** (2021 Winter)
   - Java project for a Minecraft server.
@@ -192,6 +203,7 @@ Experienced and seasoned software developer with three years of hands-on experie
 
 ### School Projects
 
+
 - **Chess Game**<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualbasic/visualbasic-plain.svg" alt="Visual Basic" width="20"/> (2015)
   - Developed in Visual Basic during high school.
   - Basic chess implementation with move validation.
@@ -204,6 +216,7 @@ Experienced and seasoned software developer with three years of hands-on experie
   
 ### Personal Projects
 
+
 - **External Game Viewer** (2017)
   - Utilized OpenCV and C++ to extract game info in real-time.
   - Integrated keyboard input for user interaction.
@@ -215,6 +228,7 @@ Experienced and seasoned software developer with three years of hands-on experie
   - Achieved 30,000+ downloads and generated revenue.
 
 ## Contributions
+
 
 - **OpenMiNet**
   - Contributed to a pure C# Minecraft implementation.
